@@ -11,3 +11,16 @@ D:\SAE\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompi
 D:\SAE\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
 D:\SAE\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
 D:\SAE\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
+D:\SAE\TCPGame\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+D:\SAE\TCPGame\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+D:\SAE\TCPGame\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\SAE\TCPGame\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\SAE\TCPGame\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+D:\SAE\TCPGame\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+D:\SAE\TCPGame\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
